@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Chandan 👋
 
-<!--
-**chandanx2005/chandanx2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year B.Tech CSE Student  
+💻 Aspiring Software Developer  
+🚀 Exploring Web Development & Problem Solving
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Java  
+- Python Ai/Ml 
+- HTML, CSS  
+- Basic JavaScript  
+- Data Structures (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🔹 Student / Mini Projects (Updating soon)
+- Hospital Managment System
+- 🔹 Phishing Website Detection
+- 
+## 🌱 Currently Learning
+- Data Structures & Algorithms  
+- Backend Development  
+- Git & GitHub best practices
+
+## 📫 Connect with me
+https://www.linkedin.com/in/chandan987/
